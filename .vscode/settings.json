@@ -1,0 +1,18 @@
+{
+	"files.associations": {
+		"mini.h": "c",
+		"minishell.h": "c",
+		"array": "c",
+		"iterator": "c",
+		"string": "c",
+		"string_view": "c",
+		"vector": "c",
+		"libft.h": "c",
+		"memory": "c",
+		"utility": "c",
+		"stdlib.h": "c",
+		"complex": "c",
+		"sstream": "c",
+		"ios": "c"
+	}
+}
